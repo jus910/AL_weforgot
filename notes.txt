@@ -1,1 +1,2 @@
-
+When we created OrderedArrayList's add method, we used the boolean return type to end loops and skip parts of code
+    - This was unplanned. We just wanted to match ArrayList's add method, which has a boolean return type
