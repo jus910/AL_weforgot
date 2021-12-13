@@ -4,7 +4,7 @@
 * isSorted: 
 ## OrderedArrayList
 * Has instance variables:
-*   ArrayList<Integer> _data;
+    ArrayList<Integer> _data;
     int _size;
 * compare: takes an index and an integer. Returns true if the given integer is greater or equal to the element at index -1 of _data, 
   and less than or equal to the element at index. If compare is used on index 0, then it does not do a comparison with the element at index -1. 
