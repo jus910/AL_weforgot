@@ -1,5 +1,5 @@
 # AL_weforgot
-# Kevin Li, Justin Mohabir, Jonathan Song
+# Team weforgot: Kevin Li, Justin Mohabir, Jonathan Song
 ## ALTester
 * Has instance variable: ArrayList< Integer> array
 * isSorted: iterates across elements of array, starting at index 1. For each index, it checks if the value is greater than the value at the previous index, 
