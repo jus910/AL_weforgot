@@ -1,2 +1,6 @@
-When we created OrderedArrayList's add method, we used the boolean return type to end loops and skip parts of code
+QCC: 
+    - Are we actually sorting anything, if the items are always put in the right place?
+Disco: 
+- When we created OrderedArrayList's add method, we used the boolean return type to end loops and skip parts of code
     - This was unplanned. We just wanted to match ArrayList's add method, which has a boolean return type
+- ArrayList already has a toString() method that prints a visual representation of the arrray
