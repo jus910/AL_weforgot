@@ -1,7 +1,9 @@
 # AL_weforgot
 # Kevin Li, Justin Mohabir, Jonathan Song
 ## ALTester
-* isSorted: 
+* Has instance variable: ArrayList array
+* isSorted: iterates across elements of array, starting at index 1. For each index, it checks if the value is greater than the value at the previous index, 
+  and returns false if that's not the case. Otherwise, it returns true.
 ## OrderedArrayList
 * Has instance variables: ArrayList< Integer> _data and int _size
 * compare: takes an index and an integer. Returns true if the given integer is greater or equal to the element at index -1 of _data, 
